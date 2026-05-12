@@ -23,6 +23,8 @@ I am passionate about combining biology, data science, and programming to solve 
 - Python
 - SQL
 - Bash/Shell Scripting
+- AI model development
+- R
 
 ### Bioinformatics Tools
 - PLINK
@@ -30,61 +32,24 @@ I am passionate about combining biology, data science, and programming to solve 
 - FastQC
 - NanoPlot
 - Nanopolish
-- GeLuster
+
 
 ### Frameworks & Technologies
-- Django
+- flask
 - Django REST Framework
 - MySQL
 - Jupyter Notebook
 - Linux
 - Git & GitHub
 
----
 
-## 📂 Featured Projects
 
-### 🧬 GWAS Summary Statistics Explorer
-A Python-based project for exploring GWAS summary statistics with:
-- Manhattan Plot
-- QQ Plot
-- SNP Filtering
-- Gene Annotation Support
-
-### 🧪 Polygenic Risk Score (PRS) Pipeline
-Pipeline for calculating PRS using:
-- GWAS Summary Statistics
-- VCF to PLINK Conversion
-- PRSice Integration
-
-### 🔬 Nanopore Sequencing Analysis
-Worked on:
-- FAST5 Quality Analysis
-- Read Filtering
-- DNA Methylation Calling
-- Nanopore Read Clustering
-- Consensus Sequence Generation
-
-### 🎵 Django REST API Projects
-Developed REST APIs for:
-- Music Library Management
-- Student Record Management System
-
----
-
-## 📈 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight)
-
----
 
 ## 📫 Connect With Me
 
-- GitHub: https://github.com/YOUR_GITHUB_USERNAME
-- LinkedIn: https://linkedin.com/in/YOUR_LINKEDIN_USERNAME
-- Email: your_email@example.com
+- GitHub: https://github.com/ritikad2003
+- LinkedIn:www.linkedin.com/in/ritika-didwani-8a019a222
+- Email: didwaniritika@gmail.com
 
 ---
 
