@@ -1,57 +1,93 @@
-### Hi folks <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20px"/>
-<div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
-</div>
-<div id="badges">
-  <a href="https://www.linkedin.com/in/sci-abhinandan-yadav-7758a0179">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" width="77" alt="LinkedIn Badge"/>
-<!--  </a>
-  <a href="your-youtube-URL">
-    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" width="70" alt="Youtube Badge"/>
-  </a> 
-  <a href="your-twitter-URL">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" width="70" alt="Twitter Badge"/>
-  </a>
-  -->
-  <img src="https://komarev.com/ghpvc/?username=abhinandan0y&style=flat-square&color=blue" alt=""/>
-</div>
-📊 : Founder of Bio-Silicon Labs && DRYeWorks && WarpAD @Bio-Silicon Valley 
-    
-- :telescope: I’m working as a Senior Bioinformatics Programmer.
+# Hi there 👋, I'm Ritika
 
-- :seedling: #Researcher @BioInformatics_Quantum_AI_Scientist
+## 🧬 Bioinformatics Researcher | Computational Biology Enthusiast
 
-- :zap: In my free time, I code my own joy!.
-
-- 🍕 Quantum Computing & Spaceship Engineer
-
-- 🕸️: XR Vision to make it reality of AI using Quantum Computing to do Space exploration.
-
-- ⚛️ www.biosiliconlabs.com
----
-**Knowlegde is FREE but Solution is Your's🤘🏻**
-
-**Keep on Learning and Executing...🏃🏻** <div style="width: 100%;">
-  <img src="https://raw.githubusercontent.com/abhinandan0y/abhinandan0y/main/images/bioinformatics_lab.png" style="width: 100%;" alt="bioinformatics_lab.png">
-</div>
-
-
+I am passionate about combining biology, data science, and programming to solve real-world biological problems. My work mainly focuses on genomics, sequencing data analysis, GWAS, polygenic risk score analysis, and bioinformatics pipeline development.
 
 ---
-![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=abhinandan0y&theme=dark&mode=weekly)
 
+## 🔬 About Me
 
-<!--
-**abhinandan0y/abhinandan0y** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🎓 MSc in Bioinformatics
+- 🧪 Interested in Genomics, NGS Analysis, and Computational Biology
+- 💻 Working with Python, Linux, Django REST Framework, and Bioinformatics Tools
+- 📊 Experienced in GWAS Analysis, PRS Calculation, and Data Visualization
+- 🧬 Working on Nanopore Sequencing and Read Clustering Projects
+- 🌱 Currently learning advanced bioinformatics workflows and scalable data analysis
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Skills & Tools
+
+### Programming Languages
+- Python
+- SQL
+- Bash/Shell Scripting
+
+### Bioinformatics Tools
+- PLINK
+- PRSice
+- FastQC
+- NanoPlot
+- Nanopolish
+- GeLuster
+
+### Frameworks & Technologies
+- Django
+- Django REST Framework
+- MySQL
+- Jupyter Notebook
+- Linux
+- Git & GitHub
+
+---
+
+## 📂 Featured Projects
+
+### 🧬 GWAS Summary Statistics Explorer
+A Python-based project for exploring GWAS summary statistics with:
+- Manhattan Plot
+- QQ Plot
+- SNP Filtering
+- Gene Annotation Support
+
+### 🧪 Polygenic Risk Score (PRS) Pipeline
+Pipeline for calculating PRS using:
+- GWAS Summary Statistics
+- VCF to PLINK Conversion
+- PRSice Integration
+
+### 🔬 Nanopore Sequencing Analysis
+Worked on:
+- FAST5 Quality Analysis
+- Read Filtering
+- DNA Methylation Calling
+- Nanopore Read Clustering
+- Consensus Sequence Generation
+
+### 🎵 Django REST API Projects
+Developed REST APIs for:
+- Music Library Management
+- Student Record Management System
+
+---
+
+## 📈 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight)
+
+---
+
+## 📫 Connect With Me
+
+- GitHub: https://github.com/YOUR_GITHUB_USERNAME
+- LinkedIn: https://linkedin.com/in/YOUR_LINKEDIN_USERNAME
+- Email: your_email@example.com
+
+---
+
+## ⚡ Fun Fact
+
+I enjoy transforming biological data into meaningful insights through computational analysis and visualization.
