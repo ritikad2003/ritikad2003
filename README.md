@@ -25,6 +25,7 @@ I am passionate about combining biology, data science, and programming to solve 
 - Bash/Shell Scripting
 - AI model development
 - R
+- NGS, AI/ML, Database dev, programming, Molecular Docking, Simulations, Big-Data Analytics,     Automation (snakemake, nextflow), containerization(docker), Deployment AWS/ PBS-Pro
 
 ### Bioinformatics Tools
 - PLINK
